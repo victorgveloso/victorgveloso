@@ -27,7 +27,7 @@
 
 - <img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" alt="TypeScript icon"> <img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript icon">
 
-  - https://github.com/victorgveloso/PRFetcher
+  - [![PRFetcher](https://github-readme-stats.vercel.app/api/pin/?username=victorgveloso&repo=PRFetcher)](https://github.com/victorgveloso/PRFetcher)
 
 ### 🕵🏻‍♂️ hobby projects
 
