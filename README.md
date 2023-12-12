@@ -1,7 +1,7 @@
 ## Hi there 👋, welcome to my profile!
 
 ![My profile stats](https://github-readme-stats.vercel.app/api?username=victorgveloso&show_icons=true&include_all_commits=true)
-![Most frequent programming language throughout my repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgveloso&layout=compact&langs_count=6&hide=html)
+![Most frequent programming language throughout my repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=victorgveloso&layout=compact&langs_count=8&hide=html)
 
 ### 🎓 research projects
 
